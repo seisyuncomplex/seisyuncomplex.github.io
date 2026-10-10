@@ -1,7 +1,7 @@
-title: 你的名字 · 个人博客
-description: 一个可以持续写作的个人博客
+title: seisyuncomplex · 个人博客
+description: 记录学习、项目与想法的个人博客
 lang: zh-CN
-timezone: Asia/Singapore
+timezone: Asia/Shanghai
 markdown: kramdown
 permalink: /posts/:title/
 exclude:
